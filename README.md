@@ -23,7 +23,7 @@ Untuk menjalankan website ini di lokal, ikuti langkah-langkah berikut:
 
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/username/repo.git](https://github.com/FirPearce/webdasar-idcamp2024.git
+   git clone https://github.com/FirPearce/webdasar-idcamp2024.git
 2. **Buka index.html di website**
 
 ## Website ini masih dalam development
